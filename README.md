@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an RNA-Seq analysis pipeline adapted from the RNA-Seq analysis conducted for my master's thesis. The pipeline processes raw RNA-Seq data to generate meaningful insights into gene expression, utilising tools such as **HISAT2**, **SAMtools**, and **featureCounts**.
+This project is an RNA-Seq analysis pipeline adapted from the RNA-Seq analysis conducted for my master's Dissertation "Predicting Preterm Birth outcomes using Machine Learning on RNA-seq Data of TNF-a treated Mouse Uterine Tissue" . The pipeline processes raw RNA-Seq data to generate meaningful insights into gene expression, utilising tools such as **HISAT2**, **SAMtools**, and **featureCounts**.
 
 The workflow automates key steps, including read mapping, transcript quantification, and generation of count matrices for downstream analysis. The project is tailored for small-scale data analysis, optimised for systems with limited memory resources (e.g., 4GB RAM).
 
